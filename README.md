@@ -1,8 +1,7 @@
 # Introdução
 
-Não possuo autorização para para postar as questões, mas não tem nenhum segredo. Apenas montamos alguns sinais e brincamos com isso.
-
-É uma referência simples, mas que com certeza vai me ajudar a lembrar como fazer isso novamente no futuro.
+Esta é a resolução de uma avaliação de Filtros Digitais do curso de Engenharia da Computação (UNIFEI).
+Utilizamos as bibliotecas `control` e `signal` para manipular sinais fictícios, os quais descrevemos em cada questão.
 
 # Dependências
 
